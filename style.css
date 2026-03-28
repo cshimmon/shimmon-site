@@ -95,9 +95,10 @@ h1 {
 }
 
 .icon svg {
-  width: 10px;
-  height: 10px;
-  fill: #ffffff;
+  width: 14px !important;
+  height: 14px !important;
+  fill: #ffffff !important;
+  display: block;
 }
 
 @media (min-width: 768px) {
