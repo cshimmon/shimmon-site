@@ -94,6 +94,12 @@ h1 {
   color: #222222;
 }
 
+.icon svg {
+  width: 16px;
+  height: 16px;
+  fill: #ffffff;
+}
+
 @media (min-width: 768px) {
   .links {
     grid-template-columns: 1fr 1fr;
