@@ -190,7 +190,7 @@ img {
 }
 
 .hero-copy {
-  max-width: 680px;
+  max-width: 760px;
 }
 
 .eyebrow {
@@ -217,8 +217,21 @@ img {
   color: var(--muted);
 }
 
+.lead {
+  text-wrap: pretty;
+}
+
+/* One sentence per line */
+.lead span {
+  display: block;
+}
+
+.lead span + span {
+  margin-top: 10px;
+}
+
 .lead + .lead {
-  margin-top: 14px;
+  margin-top: 22px;
 }
 
 .hero-visual {
