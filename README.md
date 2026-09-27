@@ -13,6 +13,8 @@ https://shimmon.co.uk
 index.html # Main page
 style.css # Styling
 avatar.jpg # Profile image
+robots.txt # Crawler rules
+sitemap.xml # Sitemap for search engines
 
 
 ## ⚙️ Tech Stack

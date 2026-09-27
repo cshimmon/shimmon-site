@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shimmon.co.uk/sitemap.xml
