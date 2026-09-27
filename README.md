@@ -1,6 +1,6 @@
 # Craig Shimmon – Personal Landing Page
 
-This is a lightweight personal site presenting my work as a digital skills trainer and coach, and as an audio and sound specialist, alongside links to my profiles and projects.
+This is a lightweight personal site: a single place for people to find out about me (my work as a digital skills coach and trainer, drumming, and audio/sound) since I don't really use social media.
 
 The site is designed to be fast, minimal, and easy to maintain, with no frameworks or dependencies.
 
@@ -38,7 +38,7 @@ To update the site:
 
 ## 🎨 Design Notes
 
-- Modern single-page layout: hero, services (training & coaching / audio & sound), approach, grouped links and a contact call-to-action
+- Modern single-page layout: intro, about cards (work, drumming, sound), interests and grouped links
 - Automatic light and dark mode via `prefers-color-scheme`
 - Animated equaliser motif in the hero (disabled for `prefers-reduced-motion`)
 - Fonts: Space Grotesk (headings) and Inter (body) from Google Fonts, with system fallbacks
