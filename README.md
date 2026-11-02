@@ -13,7 +13,8 @@ https://shimmon.co.uk
 index.html # Main page
 style.css # Styling
 avatar.jpg # Profile image
-robots.txt # Crawler rules
+robots.txt # Crawler rules (search engines and AI crawlers allowed)
+llms.txt # Plain-text summary for LLMs/AI assistants (llmstxt.org)
 sitemap.xml # Sitemap for search engines
 
 

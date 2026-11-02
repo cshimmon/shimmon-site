@@ -1,4 +1,21 @@
+# All crawlers, including AI/LLM crawlers, are welcome.
+# A plain-text summary for language models is at https://shimmon.co.uk/llms.txt
+
 User-agent: *
+Allow: /
+
+# AI crawlers (explicitly allowed)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
 Allow: /
 
 Sitemap: https://shimmon.co.uk/sitemap.xml
